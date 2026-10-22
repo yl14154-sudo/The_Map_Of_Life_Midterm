@@ -21,7 +21,6 @@ body {
 
 a { color: inherit; text-decoration: none; }
 
-/* Home map */
 .map-page { overflow-x: hidden; background: #0878ac; }
 
 .map-topbar {
@@ -81,7 +80,6 @@ a { color: inherit; text-decoration: none; }
   image-rendering: pixelated;
 }
 
-.map-waves { display: none; }
 
 .quest-card {
   position: absolute;
